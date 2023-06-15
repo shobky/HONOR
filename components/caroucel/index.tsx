@@ -72,7 +72,7 @@ export default function Caroucel({ slides }: { slides: any[] }) {
                 }`}
                 src={slide.img}
                 alt=""
-              />
+              /> 
             </div>
             <h1
               className={` relative -top-[45vh] z-20 ml-[10%] slide-text  w-[85%]  text-white text-[2.3rem] md:text-[3.50rem] leading-none font-bold  select-none  pointer-events-none`}
